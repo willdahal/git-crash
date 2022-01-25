@@ -1,3 +1,1 @@
-print ("hello world")jj
-j
-
+print ("hello world")
